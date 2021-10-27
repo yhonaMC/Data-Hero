@@ -1,0 +1,176 @@
+{
+    "superheroes": [
+      {
+        "id": 1,
+        "name": "Batman",
+        "description": "Bruce Wayne (también llamado Bruno Díaz en Hispanoamérica) es un filántropo, multimillonario y el presidente corporativo de Empresas Wayne. En secreto, él encarna a Batman, el héroe enmascarado que lucha contra el mundo del hampa y del crimen organizado en Ciudad Gótica combatiendo a peligrosos criminales que amenazan la paz de sus conciudadanos. Bruce juró ante la tumba de sus fallecidos padres, quienes murieron en un atraco a mano armada, combatir la delincuencia en todos sus aspectos.",
+        "publisher": "DC Comics",
+        "nombreReal": "Bruce Wayne",
+        "puedeVolar": false,
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576706/img_heroes/dc-batman_zxy5j1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Superman",
+        "descripcion": "Superman nació en el planeta Krypton y recibió el nombre de Kal-El al nacer. Cuando era bebé, sus padres, el científico Jor-El, y su esposa Lara Lor-Van, lo enviaron a la Tierra en una pequeña nave espacial momentos antes de que Krypton fuera destruido en un cataclismo natural. Su nave aterrizó en el campo estadounidense, cerca de la ciudad ficticia de Smallville. Fue encontrado y adoptado por los agricultores Jonathan y Martha Kent, quienes lo llamaron Clark Kent. Clark desarrolló varias habilidades sobrehumanas, como una fuerza increíble y una piel impermeable. Sus padres adoptivos le aconsejaron que usara sus habilidades en beneficio de la humanidad y decidió luchar contra el crimen como un justiciero. ",
+        "publisher": "DC Comics",
+        "nombreReal": "Kal-El",
+        "puedeVolar": true,
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576709/img_heroes/dc-superman_ftmyta.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Flash",
+        "descripcion": " Jay Garrick es un estudiante universitario que, durante un descanso para fumar, accidentalmente derrama su experimento científico de gases de agua pesada. Inhala la sustancia, se desmaya y ronda la muerte durante semanas… pero, finalmente, Garrick se recupera y nace Flash. Bendecido con velocidad sobrehumana y reflejos, en su primera aventura Garrick se las apaña para matar a cuatro enemigos.",
+        "publisher": "DC Comics",
+        "nombreReal": "Jay Garrick",
+        "puedeVolar": false,
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576706/img_heroes/dc-flash_snxrxu.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Green Lantern",
+        "descripcion": "Cada Linterna Verde posee un anillo de poder y una batería (en forma de linterna) que garantiza a su portador la posibilidad de manifestar una gran variedad de poderes. Algo común entre todos son el poder de volar y el hecho de que todos los efectos de poder se manifiesten acompañados de una luz verde. El anillo está considerado dentro del Universo DC como una de las armas más poderosas jamás creadas y como algo muy peligroso en las manos equivocadas.",
+        "publisher": "DC Comics",
+        "puedeVolar": true,
+        "nombreReal": "Alan Scott",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576709/img_heroes/dc-green_l6sgdq.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Green Arrow",
+        "descripcion": "‘Arrow’ nos contará la historia del superhéroe Green Arrow, un personaje que, al igual que Superman, es miembro de la familia de DC Comics. El cómic nos cuenta la historia de Oliver Queen, un multimillonario que se dedica a combatir el crimen vestido de verde al estilo Robin Hood con arco y flechas. Green Arrow se vale de diferentes tipos de flechas para lograr sus propósitos, desde flechas explosivas, pasando por congelantes o con cuerdas incluídas para llegar a sitios imposibles. ",
+        "publisher": "DC Comics",
+        "puedeVolar": false,
+        "nombreReal": "Oliver Queen",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576715/img_heroes/dc-arrow_rbgcrx.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Wonder Woman",
+        "descripcion": "es una superheroína ficticia creada por William Moulton Marston para la editorial DC Comics. Es una princesa guerrera de las Amazonas, pueblo ficticio basado en el de las amazonas de la mitología griega. En su tierra natal es conocida como la princesa Diana de Temiscira pero fuera de esta utiliza la identidad secreta de Diana Prince. Está dotada de una amplia gama de poderes superhumanos y habilidades de combate de batalla superiores, gracias a sus dones obtenidos de los dioses y su amplio entrenamiento",
+        "publisher": "DC Comics",
+        "puedeVolar": true,
+        "nombreReal": "Princess Diana",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576715/img_heroes/dc-wonder_rdok3n.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Martian Manhunter",
+        "descripcion": "J'onzz es nativo del planeta Marte, conocido en su lengua natal como Ma'aleca'andra (el nombre procede de una variante de Malacandra, utilizado por los habitantes de Marte en la novela Más allá del planeta silencioso de C. S. Lewis). J'onn posee habilidades que van más allá de las de un hombre común, incluyendo telepatía y la habilidad de cambiar de forma. Su apariencia habitual es la de un humanoide alto, verde y calvo, forma que adopta para parecerse más a los terrícolas, aunque su verdadero aspecto es menos humano y de cabeza alargada",
+        "publisher": "DC Comics",
+        "puedeVolar": true,
+        "nombreReal": "J\"onn J\"onzz",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576709/img_heroes/dc-martian_p02lhj.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Robin/Nightwing",
+        "descripcion": "El más joven de una familia de acróbatas conocidos como los Voladores Graysons, Richard es testigo de un jefe de la mafia llamado Tony Zucco al matar a sus padres con el fin de extorsionar dinero del circo que les emplea. Después del trágico asesinato, Batman (Bruce Wayne) toma a Richard (Dick) como su pupilo legal (convertido en hijo adoptivo en algunos casos) y lo entrena para convertirse en su compañero Robin en la lucha contra el crimen. Está escrito por muchos autores como el primer hijo de Batman.",
+        "publisher": "DC Comics",
+        "nombreReal": "Dick Grayson",
+        "puedeVolar": false,
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576708/img_heroes/dc-robin_asdzak.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Blue Beetle",
+        "descripcion": "Se trataba de un policía novato que usaba equipo especial, como un chaleco antibalas, que tomaba una vitamina que le concedía superfuerza, y que contaba con la ayuda de un vecino farmacéutico para combatir el crimen.",
+        "publisher": "DC Comics",
+        "puedeVolar": false,
+        "nombreReal": "Dan Garret",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576708/img_heroes/dc-blue_tk2ccp.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Black Canary",
+        "descripcion": "Dinah Drake era hija de un policía de Gotham City, decidida a seguir los pasos de su padre, Dinah intentó ingresar a la academia de policía de la ciudad pero fue rechazada. Decidida a dedicar su vida a combatir el crimen tomó la decisión de convertirse en Black Canary y hacer justicia por su cuenta",
+        "publisher": "DC Comics",
+        "puedeVolar": false,
+        "nombreReal": "Dinah Drake",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576708/img_heroes/dc-black_cjfpa6.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Spider Man",
+        "descripcion": "Spiderman es la historia del tímido estudiante Peter Parker que viene mordisco de una araña contaminada de los radios radiactivos en el curso de un experimento científico. La picadura cambia el código genético y transforma el grácil muchacho en un individuo con características igual a aquellas de una araña si tuvo las dimensiones humanas, un verdadero y propio hombre araña.",
+        "publisher": "Marvel Comics",
+        "puedeVolar": false,
+        "nombreReal": "Peter Parker",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576713/img_heroes/marvel-spider_vutgrj.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Captain America",
+        "descripcion": "El Capitán América viste un traje que lleva un motivo de la bandera de los Estados Unidos, y utiliza un escudo casi indestructible que lanza como proyectil. El personaje es generalmente representado como el álter ego de Steve Rogers, un joven frágil mejorado a la cima de la perfección humana por un suero experimental S.S.S. (Suero supersoldado) para ayudar a los esfuerzos inminentes del gobierno de Estados Unidos en la Segunda Guerra Mundial",
+        "publisher": "Marvel Comics",
+        "puedeVolar": false,
+        "nombreReal": "Steve Rogers",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576709/img_heroes/marvel-captain_aghcmc.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Iron Man",
+        "descripcion": "Anthony Edward Stark conocido como Tony Stark, es un multimillonario magnate empresarial estadounidense, playboy e ingenioso científico, quien sufrió una grave lesión en el pecho durante un secuestro. Cuando sus captores intentan forzarlo a construir un arma de destrucción masiva crea, en cambio, una armadura para salvar su vida y escapar del cautiverio. Más tarde, Stark desarrolla su traje, agregando armas y otros dispositivos tecnológicos que diseñó a través de su compañía, Industrias Stark.",
+        "publisher": "Marvel Comics",
+        "alter_ego": "Tony Stark",
+        "puedeVolar": true,
+        "first_appearance": "Tales of Suspense #39",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576712/img_heroes/marvel-iron_mrztum.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Thor",
+        "descripcion": "Thor es el hijo de Odín, señor de los dioses de Asgard, y de Jord, que también es conocida como Gea, la más anciana diosa de la Tierra. Odín quería ser padre de un hijo cuyo poder derivase de la Tierra y de Asgard, así que se apareó con Jord. Odín creó una cueva en Noruega donde Jord dio a luz a Thor. Meses después de que el niño Thor fuese destetado, Odín se lo llevó a Asgard para criarlo. Desde entonces, la esposa de Odín, la diosa Frigga, actuó como la madre de Thor. No fue hasta tiempos recientes que Thor descubrió que su madre era Jord.",
+        "publisher": "Marvel Comics",
+        "nombreReal": "Thor Odinson",
+        "puedeVolar": true,
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576715/img_heroes/marvel-thor_lgowyw.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Hulk",
+        "descripcion": " era un científico que trabajaba en una bomba de radiación Gamma para el ejercito estadounidense. Entonces, Bruce se dió cuenta de que un joven llamado Rick Jones había entrado al campo de pruebas. Banner salió corriendo para salvar al muchacho y heroicamente lo empujó a una zanja de protección que le salvó la vida a Rick, pero Bruce quedó expuesto a cantidades extremas de radiación Gamma que alteraron la estructura de su ADN. Cuando Bruce se enojaba, éste se transformaba en una criatura de color verde (a veces gris) con poderes increíbles que aumentaban su capacidad fisica al que le apodaron Hulk.",
+        "publisher": "Marvel Comics",
+        "nombreReal": "Bruce Banner",
+        "puedeVolar": false,
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576715/img_heroes/marvel-hulk_ycp4ba.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Wolverine",
+        "descripcion": "con los X-Men. Es un mutante que posee sentidos afinados a los animales, capacidades físicas mejoradas, poderosa capacidad de regeneración conocida como un factor de curación, y tres garras retráctiles en cada mano. Wolverine ha sido representado de diversas formas como miembro de los X-Men, Alpha Flight, Fuerza-X y Los Vengadores.",
+        "publisher": "Marvel Comics",
+        "puedeVolar": false,
+        "nombreReal": "James Howlett",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576717/img_heroes/marvel-wolverine_pbo110.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Daredevil",
+        "descripcion": "Cegado en un accidente de su infancia, el abogado Matt Murdock protege Hell’s Kitchen como el vigilante enmascarado, Daredevil.Cuando era niño, Matt Murdock perdió la vista y ganó sentidos sobrehumanos en un accidente que le enseñó a vivir sin miedo. Luego pasó a estudiar derecho, lo que lo llevó a una vida de lucha contra el crimen en Nueva York; como abogado y como vigilante Daredevil.",
+        "publisher": "Marvel Comics",
+        "puedeVolar": false,
+        "nombreReal": "Matthew Michael Murdock",
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576711/img_heroes/marvel-daredevil_nhuml0.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Hawkeye",
+        "descripcion": "Clinton Francis Clint Barton, mejor conocido como Hawkeye, es un antiguo agente especial de S.H.I.E.L.D. y miembro fundador de los Vengadores. Él fue responsable del reclutamiento de Natalia Romanoff en S.H.I.E.L.D., con quien desarrolló una fuerte amistad y trabajó durante la Operación Budapest. Barton se trasladó a Nuevo México cuando la agencia comenzó a estudiar el Mjolnir, y después fue asignado por Nicholas Fury a vigilar el Teseracto, pero Loki le lavó el cerebro durante la Destrucción del Proyecto P.E.G.A.S.U.S.. Después del Ataque en el Helicarrier, él fue liberado de su control mental, se unió a los Vengadores y capturaron a Loki tras la Batalla de Nueva York.",
+        "publisher": "Marvel Comics",
+        "nombreReal": "Clinton Francis Barton",
+        "puedeVolar": false,
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576712/img_heroes/marvel-hawkeye_xea2en.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Cyclops",
+        "descripcion": "Cíclope es un miembro de una subespecie de humanos conocidos como mutantes, que nacen con habilidades sobrehumanas. Cíclope puede emitir potentes rayos de energía de sus ojos. No puede controlar las descargas sin la ayuda de gafas especiales que debe usar en todo momento. Él es generalmente considerado el primero de los X-Men, un equipo de héroes mutantes que luchan por la paz y la igualdad entre mutantes y humanos, y uno de los principales líderes del equipo.",
+        "publisher": "Marvel Comics",
+        "nombreReal": "Scott Summers",
+        "puedeVolar": true,
+        "image": "https://res.cloudinary.com/duzf4vfki/image/upload/v1627576711/img_heroes/marvel-cyclops_detkog.jpg"
+      }
+    ]
+  }

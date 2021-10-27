@@ -1,0 +1,37 @@
+{
+  "name": "hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "clone-response": "^1.0.2",
+    "compressible": "^2.0.18",
+    "decompress-response": "^3.3.0",
+    "is-typedarray": "^1.0.0",
+    "is-yarn-global": "^0.3.0",
+    "isarray": "^0.0.1",
+    "jju": "^1.4.0",
+    "json-buffer": "^3.0.0",
+    "json-server": "^0.17.0",
+    "keyv": "^3.1.0",
+    "lodash": "^4.17.21",
+    "lowercase-keys": "^1.0.1",
+    "make-dir": "^3.1.0",
+    "media-typer": "^0.3.0",
+    "merge-descriptors": "^1.0.1",
+    "methods": "^1.1.2",
+    "mime": "^1.6.0",
+    "mime-db": "^1.50.0",
+    "mime-types": "^2.1.33",
+    "mimic-response": "^1.0.1",
+    "minimist": "^1.2.5",
+    "ms": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
